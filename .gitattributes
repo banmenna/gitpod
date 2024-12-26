@@ -1,4 +1,4 @@
-# installer test output
+w# installer test output
 install/installer/cmd/testdata/render/**/*.golden linguist-generated=true
 
 # gRPC and Protobuf
