@@ -1,6 +1,6 @@
 w# installer test output
 install/installer/cmd/testdata/render/**/*.golden linguist-generated=true
-
+ss
 # gRPC and Protobuf
 components/**/*.pb.go linguist-generated=true
 components/**/*_grpc.pb.go linguist-generated=true
